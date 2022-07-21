@@ -141,7 +141,7 @@ header ul li img:hover {
   padding-left: 4rem;
   box-shadow: 0.1rem 0rem 2rem 0.5rem rgba(0, 0, 0, 0.75);
   position: absolute;
-  overflow: auto;
+  overflow: hidden;
   bottom: -5vh;
   left: 4vw;
   z-index: 1;
